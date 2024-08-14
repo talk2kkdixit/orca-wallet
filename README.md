@@ -1,0 +1,1 @@
+The Orca DEX allows for decentralised trading of cryptocurrencies via an automated market maker (AMM) model. AMMs use algorithmic 'money robots' to provide liquidity and facilitate trades, rather than the peer-to-peer trading approach used by some DEXs.
